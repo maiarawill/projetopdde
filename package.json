@@ -1,0 +1,19 @@
+{
+  "name": "transparencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/server.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "puppeteer": "^19.8.2",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3"
+  }
+}
