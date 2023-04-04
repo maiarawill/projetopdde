@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node ./src/server.ts",
     "testar": "ts-node ./src/irformacaoGerais.ts",
-    "diretoria": "ts-node ./src/diretorias.ts"
+    "diretoria": "ts-node ./src/diretorias.ts",
+    "work": "ts-node ./src/work.ts"
   },
   "keywords": [],
   "author": "",
