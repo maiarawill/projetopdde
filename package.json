@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "ts-node ./src/server.ts",
+    "testar": "ts-node ./src/irformacaoGerais.ts",
     "diretoria": "ts-node ./src/diretorias.ts"
   },
   "keywords": [],
