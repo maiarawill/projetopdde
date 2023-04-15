@@ -1,6 +1,6 @@
 import { promises as fs } from 'fs';
 
-interface Escola {
+export interface Escola {
     programas: Programa[];
     repasses: Repasse[];
     notasFiscais: NotaFiscal[];
@@ -17,13 +17,13 @@ interface Escola {
     nrTotalDeAlunos: number;
 }
 
-interface Programa {
+export interface Programa {
     idPrograma: number;
     nmPrograma: string;
     nmProgramaNovo: string;
 }
 
-interface Repasse {
+export interface Repasse {
     cdEscola: number;
     nrAnoBase: number;
     idTipoRepasse: number;
@@ -31,7 +31,7 @@ interface Repasse {
     vlTotal: number;
 }
 
-interface NotaFiscal {
+export interface NotaFiscal {
     nrNotaFiscal: string;
     cdEscola: number;
     nrAnoBase: number;
@@ -51,7 +51,7 @@ interface NotaFiscal {
     dsMotivoReprovacao?: any;
 }
 
-interface Verbas {
+export interface Verbas {
     cdEscola: number;
     nrAnoBase: number;
     vlRecebido: number;
