@@ -1,0 +1,68 @@
+{"level":"info","message":"A escola de id: 8023 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8047 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8163 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8230 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8278 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8370 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8394 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8485 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8539 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8552 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8692 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 8710 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 15040 não conseguiu ser concluida."}
+{"level":"error","name":"SequelizeDatabaseError","original":{"code":"ER_DATA_TOO_LONG","errno":1406,"parameters":["(15) 32724105","ALDO.CAMARGO@EDUCACAO.SP.GOV.BR",15040],"sql":"UPDATE `escolas_estaduais_sp` SET `telefone`=?,`email`=? WHERE `id_da_escola` = ?","sqlMessage":"Data too long for column 'email' at row 1","sqlState":"22001"},"parameters":["(15) 32724105","ALDO.CAMARGO@EDUCACAO.SP.GOV.BR",15040],"parent":{"code":"ER_DATA_TOO_LONG","errno":1406,"parameters":["(15) 32724105","ALDO.CAMARGO@EDUCACAO.SP.GOV.BR",15040],"sql":"UPDATE `escolas_estaduais_sp` SET `telefone`=?,`email`=? WHERE `id_da_escola` = ?","sqlMessage":"Data too long for column 'email' at row 1","sqlState":"22001"},"sql":"UPDATE `escolas_estaduais_sp` SET `telefone`=?,`email`=? WHERE `id_da_escola` = ?"}
+{"level":"info","message":"A escola de id: 34472 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 34629 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 35919 não conseguiu ser concluida."}
+{"level":"error","name":"SequelizeDatabaseError","original":{"code":"ER_DATA_TOO_LONG","errno":1406,"parameters":["(19) 38064515","ADRIANA.RIBEIRO@EDUCACAO.SP.GOV.BR",35919],"sql":"UPDATE `escolas_estaduais_sp` SET `telefone`=?,`email`=? WHERE `id_da_escola` = ?","sqlMessage":"Data too long for column 'email' at row 1","sqlState":"22001"},"parameters":["(19) 38064515","ADRIANA.RIBEIRO@EDUCACAO.SP.GOV.BR",35919],"parent":{"code":"ER_DATA_TOO_LONG","errno":1406,"parameters":["(19) 38064515","ADRIANA.RIBEIRO@EDUCACAO.SP.GOV.BR",35919],"sql":"UPDATE `escolas_estaduais_sp` SET `telefone`=?,`email`=? WHERE `id_da_escola` = ?","sqlMessage":"Data too long for column 'email' at row 1","sqlState":"22001"},"sql":"UPDATE `escolas_estaduais_sp` SET `telefone`=?,`email`=? WHERE `id_da_escola` = ?"}
+{"level":"info","message":"A escola de id: 38489 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 38490 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 39536 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 43266 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 43761 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 100195 não conseguiu ser concluida."}
+{"level":"error"}
+{"level":"info","message":"A escola de id: 127152 não conseguiu ser concluida."}
+{"level":"error"}
+{"level":"info","message":"A escola de id: 388973 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 580065 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 581124 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 903036 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 904491 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 904892 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 905975 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 907066 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 908502 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 924775 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
+{"level":"info","message":"A escola de id: 925366 não conseguiu ser concluida."}
+{"level":"error","name":"TimeoutError"}
