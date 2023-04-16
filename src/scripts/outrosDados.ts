@@ -1,8 +1,8 @@
 import puppeteer from 'puppeteer';
 import { sequelize } from './sequelize'
-import Escolas from './models/EscolasSP';
-import Gestores from './models/GestoresSP'
-import logger from './factory/logger';
+import Escolas from '../models/EscolasSP';
+import Gestores from '../models/GestoresSP'
+import logger from '../factory/logger';
 import { Op, Sequelize } from 'sequelize';
 
 
