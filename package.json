@@ -5,11 +5,12 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "ts-node ./src/server.ts",
-    "diretoria": "ts-node ./src/diretorias.ts",
-    "work": "ts-node ./src/work.ts",
-    "testar": "ts-node ./src/leituraJSON.ts",
-    "funciona": "ts-node ./src/outrosDados.ts"
+    "start": "ts-node ./src/scripts/server.ts",
+    "diretoria": "ts-node ./src/scripts/diretorias.ts",
+    "work": "ts-node ./src/scripts/work.ts",
+    "testar": "ts-node ./src/scripts/leituraJSON.ts",
+    "funciona": "ts-node ./src/scripts/outrosDados.ts",
+    "pagamentos": "ts-node ./src/scripts/processamentoDeVerbas.ts"
   },
   "keywords": [],
   "author": "",
