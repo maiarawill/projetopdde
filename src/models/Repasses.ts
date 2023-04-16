@@ -1,10 +1,10 @@
 import { DataTypes, Model } from 'sequelize';
 import Escolas from './EscolasSP';
 import Programas from './Programas'
-import { sequelize } from '../sequelize'
+import { sequelize } from '../scripts/sequelize'
 
 // Define the interface for the User model
-interface AtributosDaTabela {
+export interface TabelaRepasses {
     id?: number;
     id_da_escola: number;
     ano_do_deposito: number;
@@ -16,7 +16,7 @@ interface AtributosDaTabela {
 
 
 // Define the User model
-class Repasses extends Model<AtributosDaTabela> implements AtributosDaTabela {
+class Repasses extends Model<TabelaRepasses> implements TabelaRepasses {
     public id?: number;
     public id_da_escola!: number;
     public ano_do_deposito!: number;

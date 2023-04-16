@@ -1,7 +1,7 @@
 import { DataTypes, Model, Optional } from 'sequelize';
 import Gestores from './GestoresSP';
 
-import { sequelize } from '../sequelize'
+import { sequelize } from '../scripts/sequelize'
 // Define the interface for the User model
 export interface TabelaEscola {
     id_da_escola: number;

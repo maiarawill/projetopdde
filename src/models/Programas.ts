@@ -1,8 +1,8 @@
 import { DataTypes, Model } from 'sequelize';
-import { sequelize } from '../sequelize'
+import { sequelize } from '../scripts/sequelize'
 
 // Define the interface for the User model
-interface AtributosDaTabela {
+export interface AtributosDaTabela {
     id_do_programa: number;
     nome_do_programa: string;
 }

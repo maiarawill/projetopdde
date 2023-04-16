@@ -2,9 +2,9 @@ import { DataTypes, Model, Optional } from 'sequelize';
 
 import Escolas from './EscolasSP';
 
-import { sequelize } from '../sequelize'
+import { sequelize } from '../scripts/sequelize'
 // Define the interface for the User model
-interface AtributosDaTabela {
+export interface TabelaGestores {
     id?: number;
     cargo_gestor: string;
     nome_gestor: string;
@@ -12,10 +12,10 @@ interface AtributosDaTabela {
 }
 
 // Define the attributes that can be null or undefined
-//interface EscolasEstaduaisDeSP extends Optional<AtributosDaTabela, 'id_da_escola'> { }
+//interface EscolasEstaduaisDeSP extends Optional<TabelaGestores, 'id_da_escola'> { }
 
 // Define the User model
-class Gestores extends Model<AtributosDaTabela> implements AtributosDaTabela {
+class Gestores extends Model<TabelaGestores> implements TabelaGestores {
 
     public id!: number;
     public cargo_gestor!: string;

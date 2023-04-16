@@ -1,10 +1,8 @@
 import { DataTypes, Model } from 'sequelize';
-import Escolas from './EscolasSP';
-import Programas from './Programas'
-import { sequelize } from '../sequelize'
+import { sequelize } from '../scripts/sequelize'
 
 // Define the interface for the User model
-interface AtributosDaTabela {
+export interface TabelaValoresGastos {
     id?: number;
     numero_nota_fiscal: string;
     id_da_escola: number;
@@ -19,7 +17,7 @@ interface AtributosDaTabela {
 
 
 // Define the User model
-class ValoresJaGastos extends Model<AtributosDaTabela> implements AtributosDaTabela {
+class ValoresJaGastos extends Model<TabelaValoresGastos> implements TabelaValoresGastos {
     public id?: number;
     public numero_nota_fiscal!: string;
     public id_da_escola!: number;
