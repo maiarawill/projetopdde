@@ -37,23 +37,16 @@ import Escolas from '../models/EscolasSP'
 
         await page.waitForSelector(".o_searchview_input")//Digita o nome da escola que veio no banco
         await page.type(".o_searchview_input", nome)
-
-        await page.screenshot({ path: 'aparecer.png' })
         await page.waitForSelector(".o_selection_focus")//Clica no primeiro item do menu de opções
         await page.click(".o_selection_focus")
-        await page.screenshot({ path: 'aparecerlista.png' })
         await page.waitForSelector(".o_kanban_view ")//Aguarda a página abrir
 
-        let liSelecionado: any;
 
-        const liTexts = await page.$$eval('.o_text_overflow', lis => lis.map(async li => {
-            if (email == li.textContent) {
-                liSelecionado = li
-            }
-        }));
-        console.log(liTexts);
-        await page.click(`text/${liSelecionado.textContent}`)
-
+        await page.waitForTimeout(3000);
+        const liTexts = await page.$$eval('.o_text_overflow', lis => lis.map(li => li.textContent));
+        if (liTexts.includes(email)) {
+            console.log("ihu")
+        }
 
     } catch (e: any) {
         console.error(`Erro ao inserior a escola: ${nome}`, e);
