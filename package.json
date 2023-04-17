@@ -11,6 +11,7 @@
     "testar": "ts-node ./src/scripts/leituraJSON.ts",
     "funciona": "ts-node ./src/scripts/outrosDados.ts",
     "pagamentos": "ts-node ./src/scripts/processamentoDeVerbas.ts",
+    "atualizarOdoo": "ts-node ./src/scripts/atualizacaoDadosOdoo.ts",
     "serve": "ts-node ./src/web/app.ts"
   },
   "keywords": [],

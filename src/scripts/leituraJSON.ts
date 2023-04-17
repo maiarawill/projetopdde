@@ -1,13 +1,13 @@
 import * as fs from 'fs';
 import { Model, DataTypes } from 'sequelize';
 import { sequelize } from './sequelize'
-import Escolas from './models/EscolasSP';
+import Escolas from '../models/EscolasSP';
 //import { GestoresSP } from 'c:/projetopdde/src/models/GestoresSP';
-import Programas from './models/Programas';
-import Repasses from './models/Repasses';
-import ValoresJaGastos from './models/ValoresJaGastos';
+import Programas from '../models/Programas';
+import Repasses from '../models/Repasses';
+import ValoresJaGastos from '../models/ValoresJaGastos';
 import { Escola, NotaFiscal, Repasse } from './work';
-import logger from './factory/logger';
+import logger from '../factory/logger';
 
 //const jsonString = fs.readFileSync('./diretorias/Aracatuba.json', 'utf-8');
 
