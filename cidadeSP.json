@@ -1,0 +1,2578 @@
+[
+    {
+        "cdMunicipio": 150,
+        "nmMunicipio": "ADAMANTINA"
+    },
+    {
+        "cdMunicipio": 151,
+        "nmMunicipio": "ADOLFO"
+    },
+    {
+        "cdMunicipio": 152,
+        "nmMunicipio": "AGUAI"
+    },
+    {
+        "cdMunicipio": 154,
+        "nmMunicipio": "AGUAS DA PRATA"
+    },
+    {
+        "cdMunicipio": 153,
+        "nmMunicipio": "AGUAS DE LINDOIA"
+    },
+    {
+        "cdMunicipio": 607,
+        "nmMunicipio": "AGUAS DE SANTA BARBARA"
+    },
+    {
+        "cdMunicipio": 155,
+        "nmMunicipio": "AGUAS DE SAO PEDRO"
+    },
+    {
+        "cdMunicipio": 156,
+        "nmMunicipio": "AGUDOS"
+    },
+    {
+        "cdMunicipio": 732,
+        "nmMunicipio": "ALAMBARI"
+    },
+    {
+        "cdMunicipio": 157,
+        "nmMunicipio": "ALFREDO MARCONDES"
+    },
+    {
+        "cdMunicipio": 158,
+        "nmMunicipio": "ALTAIR"
+    },
+    {
+        "cdMunicipio": 159,
+        "nmMunicipio": "ALTINOPOLIS"
+    },
+    {
+        "cdMunicipio": 160,
+        "nmMunicipio": "ALTO ALEGRE"
+    },
+    {
+        "cdMunicipio": 733,
+        "nmMunicipio": "ALUMINIO"
+    },
+    {
+        "cdMunicipio": 161,
+        "nmMunicipio": "ALVARES FLORENCE"
+    },
+    {
+        "cdMunicipio": 162,
+        "nmMunicipio": "ALVARES MACHADO"
+    },
+    {
+        "cdMunicipio": 163,
+        "nmMunicipio": "ALVARO DE CARVALHO"
+    },
+    {
+        "cdMunicipio": 164,
+        "nmMunicipio": "ALVINLANDIA"
+    },
+    {
+        "cdMunicipio": 165,
+        "nmMunicipio": "AMERICANA"
+    },
+    {
+        "cdMunicipio": 166,
+        "nmMunicipio": "AMERICO BRASILIENSE"
+    },
+    {
+        "cdMunicipio": 167,
+        "nmMunicipio": "AMERICO DE CAMPOS"
+    },
+    {
+        "cdMunicipio": 168,
+        "nmMunicipio": "AMPARO"
+    },
+    {
+        "cdMunicipio": 169,
+        "nmMunicipio": "ANALANDIA"
+    },
+    {
+        "cdMunicipio": 170,
+        "nmMunicipio": "ANDRADINA"
+    },
+    {
+        "cdMunicipio": 171,
+        "nmMunicipio": "ANGATUBA"
+    },
+    {
+        "cdMunicipio": 172,
+        "nmMunicipio": "ANHEMBI"
+    },
+    {
+        "cdMunicipio": 173,
+        "nmMunicipio": "ANHUMAS"
+    },
+    {
+        "cdMunicipio": 174,
+        "nmMunicipio": "APARECIDA"
+    },
+    {
+        "cdMunicipio": 175,
+        "nmMunicipio": "APARECIDA D\u0027OESTE"
+    },
+    {
+        "cdMunicipio": 176,
+        "nmMunicipio": "APIAI"
+    },
+    {
+        "cdMunicipio": 734,
+        "nmMunicipio": "ARACARIGUAMA"
+    },
+    {
+        "cdMunicipio": 177,
+        "nmMunicipio": "ARACATUBA"
+    },
+    {
+        "cdMunicipio": 178,
+        "nmMunicipio": "ARACOIABA DA SERRA"
+    },
+    {
+        "cdMunicipio": 179,
+        "nmMunicipio": "ARAMINA"
+    },
+    {
+        "cdMunicipio": 180,
+        "nmMunicipio": "ARANDU"
+    },
+    {
+        "cdMunicipio": 735,
+        "nmMunicipio": "ARAPEI"
+    },
+    {
+        "cdMunicipio": 181,
+        "nmMunicipio": "ARARAQUARA"
+    },
+    {
+        "cdMunicipio": 182,
+        "nmMunicipio": "ARARAS"
+    },
+    {
+        "cdMunicipio": 775,
+        "nmMunicipio": "ARCO-IRIS"
+    },
+    {
+        "cdMunicipio": 183,
+        "nmMunicipio": "AREALVA"
+    },
+    {
+        "cdMunicipio": 184,
+        "nmMunicipio": "AREIAS"
+    },
+    {
+        "cdMunicipio": 185,
+        "nmMunicipio": "AREIOPOLIS"
+    },
+    {
+        "cdMunicipio": 186,
+        "nmMunicipio": "ARIRANHA"
+    },
+    {
+        "cdMunicipio": 187,
+        "nmMunicipio": "ARTUR NOGUEIRA"
+    },
+    {
+        "cdMunicipio": 188,
+        "nmMunicipio": "ARUJA"
+    },
+    {
+        "cdMunicipio": 736,
+        "nmMunicipio": "ASPASIA"
+    },
+    {
+        "cdMunicipio": 189,
+        "nmMunicipio": "ASSIS"
+    },
+    {
+        "cdMunicipio": 190,
+        "nmMunicipio": "ATIBAIA"
+    },
+    {
+        "cdMunicipio": 191,
+        "nmMunicipio": "AURIFLAMA"
+    },
+    {
+        "cdMunicipio": 192,
+        "nmMunicipio": "AVAI"
+    },
+    {
+        "cdMunicipio": 193,
+        "nmMunicipio": "AVANHANDAVA"
+    },
+    {
+        "cdMunicipio": 194,
+        "nmMunicipio": "AVARE"
+    },
+    {
+        "cdMunicipio": 195,
+        "nmMunicipio": "BADY BASSITT"
+    },
+    {
+        "cdMunicipio": 196,
+        "nmMunicipio": "BALBINOS"
+    },
+    {
+        "cdMunicipio": 197,
+        "nmMunicipio": "BALSAMO"
+    },
+    {
+        "cdMunicipio": 198,
+        "nmMunicipio": "BANANAL"
+    },
+    {
+        "cdMunicipio": 199,
+        "nmMunicipio": "BARAO DE ANTONINA"
+    },
+    {
+        "cdMunicipio": 200,
+        "nmMunicipio": "BARBOSA"
+    },
+    {
+        "cdMunicipio": 201,
+        "nmMunicipio": "BARIRI"
+    },
+    {
+        "cdMunicipio": 202,
+        "nmMunicipio": "BARRA BONITA"
+    },
+    {
+        "cdMunicipio": 737,
+        "nmMunicipio": "BARRA DO CHAPEU"
+    },
+    {
+        "cdMunicipio": 203,
+        "nmMunicipio": "BARRA DO TURVO"
+    },
+    {
+        "cdMunicipio": 204,
+        "nmMunicipio": "BARRETOS"
+    },
+    {
+        "cdMunicipio": 205,
+        "nmMunicipio": "BARRINHA"
+    },
+    {
+        "cdMunicipio": 206,
+        "nmMunicipio": "BARUERI"
+    },
+    {
+        "cdMunicipio": 207,
+        "nmMunicipio": "BASTOS"
+    },
+    {
+        "cdMunicipio": 208,
+        "nmMunicipio": "BATATAIS"
+    },
+    {
+        "cdMunicipio": 209,
+        "nmMunicipio": "BAURU"
+    },
+    {
+        "cdMunicipio": 210,
+        "nmMunicipio": "BEBEDOURO"
+    },
+    {
+        "cdMunicipio": 211,
+        "nmMunicipio": "BENTO DE ABREU"
+    },
+    {
+        "cdMunicipio": 212,
+        "nmMunicipio": "BERNARDINO DE CAMPOS"
+    },
+    {
+        "cdMunicipio": 738,
+        "nmMunicipio": "BERTIOGA"
+    },
+    {
+        "cdMunicipio": 213,
+        "nmMunicipio": "BILAC"
+    },
+    {
+        "cdMunicipio": 214,
+        "nmMunicipio": "BIRIGUI"
+    },
+    {
+        "cdMunicipio": 215,
+        "nmMunicipio": "BIRITIBA-MIRIM"
+    },
+    {
+        "cdMunicipio": 216,
+        "nmMunicipio": "BOA ESPERANCA DO SUL"
+    },
+    {
+        "cdMunicipio": 217,
+        "nmMunicipio": "BOCAINA"
+    },
+    {
+        "cdMunicipio": 218,
+        "nmMunicipio": "BOFETE"
+    },
+    {
+        "cdMunicipio": 219,
+        "nmMunicipio": "BOITUVA"
+    },
+    {
+        "cdMunicipio": 220,
+        "nmMunicipio": "BOM JESUS DOS PERDOES"
+    },
+    {
+        "cdMunicipio": 739,
+        "nmMunicipio": "BOM SUCESSO DE ITARARE"
+    },
+    {
+        "cdMunicipio": 221,
+        "nmMunicipio": "BORA"
+    },
+    {
+        "cdMunicipio": 222,
+        "nmMunicipio": "BORACEIA"
+    },
+    {
+        "cdMunicipio": 223,
+        "nmMunicipio": "BORBOREMA"
+    },
+    {
+        "cdMunicipio": 721,
+        "nmMunicipio": "BOREBI"
+    },
+    {
+        "cdMunicipio": 224,
+        "nmMunicipio": "BOTUCATU"
+    },
+    {
+        "cdMunicipio": 225,
+        "nmMunicipio": "BRAGANCA PAULISTA"
+    },
+    {
+        "cdMunicipio": 226,
+        "nmMunicipio": "BRAUNA"
+    },
+    {
+        "cdMunicipio": 776,
+        "nmMunicipio": "BREJO ALEGRE"
+    },
+    {
+        "cdMunicipio": 227,
+        "nmMunicipio": "BRODOWSKI"
+    },
+    {
+        "cdMunicipio": 228,
+        "nmMunicipio": "BROTAS"
+    },
+    {
+        "cdMunicipio": 229,
+        "nmMunicipio": "BURI"
+    },
+    {
+        "cdMunicipio": 230,
+        "nmMunicipio": "BURITAMA"
+    },
+    {
+        "cdMunicipio": 231,
+        "nmMunicipio": "BURITIZAL"
+    },
+    {
+        "cdMunicipio": 232,
+        "nmMunicipio": "CABRALIA PAULISTA"
+    },
+    {
+        "cdMunicipio": 233,
+        "nmMunicipio": "CABREUVA"
+    },
+    {
+        "cdMunicipio": 234,
+        "nmMunicipio": "CACAPAVA"
+    },
+    {
+        "cdMunicipio": 235,
+        "nmMunicipio": "CACHOEIRA PAULISTA"
+    },
+    {
+        "cdMunicipio": 236,
+        "nmMunicipio": "CACONDE"
+    },
+    {
+        "cdMunicipio": 237,
+        "nmMunicipio": "CAFELANDIA"
+    },
+    {
+        "cdMunicipio": 238,
+        "nmMunicipio": "CAIABU"
+    },
+    {
+        "cdMunicipio": 239,
+        "nmMunicipio": "CAIEIRAS"
+    },
+    {
+        "cdMunicipio": 240,
+        "nmMunicipio": "CAIUA"
+    },
+    {
+        "cdMunicipio": 241,
+        "nmMunicipio": "CAJAMAR"
+    },
+    {
+        "cdMunicipio": 740,
+        "nmMunicipio": "CAJATI"
+    },
+    {
+        "cdMunicipio": 242,
+        "nmMunicipio": "CAJOBI"
+    },
+    {
+        "cdMunicipio": 243,
+        "nmMunicipio": "CAJURU"
+    },
+    {
+        "cdMunicipio": 741,
+        "nmMunicipio": "CAMPINA DO MONTE ALEGRE"
+    },
+    {
+        "cdMunicipio": 244,
+        "nmMunicipio": "CAMPINAS"
+    },
+    {
+        "cdMunicipio": 245,
+        "nmMunicipio": "CAMPO LIMPO PAULISTA"
+    },
+    {
+        "cdMunicipio": 246,
+        "nmMunicipio": "CAMPOS DO JORDAO"
+    },
+    {
+        "cdMunicipio": 247,
+        "nmMunicipio": "CAMPOS NOVOS PAULISTA"
+    },
+    {
+        "cdMunicipio": 248,
+        "nmMunicipio": "CANANEIA"
+    },
+    {
+        "cdMunicipio": 777,
+        "nmMunicipio": "CANAS"
+    },
+    {
+        "cdMunicipio": 249,
+        "nmMunicipio": "CANDIDO MOTA"
+    },
+    {
+        "cdMunicipio": 250,
+        "nmMunicipio": "CANDIDO RODRIGUES"
+    },
+    {
+        "cdMunicipio": 742,
+        "nmMunicipio": "CANITAR"
+    },
+    {
+        "cdMunicipio": 251,
+        "nmMunicipio": "CAPAO BONITO"
+    },
+    {
+        "cdMunicipio": 252,
+        "nmMunicipio": "CAPELA DO ALTO"
+    },
+    {
+        "cdMunicipio": 253,
+        "nmMunicipio": "CAPIVARI"
+    },
+    {
+        "cdMunicipio": 254,
+        "nmMunicipio": "CARAGUATATUBA"
+    },
+    {
+        "cdMunicipio": 255,
+        "nmMunicipio": "CARAPICUIBA"
+    },
+    {
+        "cdMunicipio": 256,
+        "nmMunicipio": "CARDOSO"
+    },
+    {
+        "cdMunicipio": 257,
+        "nmMunicipio": "CASA BRANCA"
+    },
+    {
+        "cdMunicipio": 258,
+        "nmMunicipio": "CASSIA DOS COQUEIROS"
+    },
+    {
+        "cdMunicipio": 259,
+        "nmMunicipio": "CASTILHO"
+    },
+    {
+        "cdMunicipio": 260,
+        "nmMunicipio": "CATANDUVA"
+    },
+    {
+        "cdMunicipio": 261,
+        "nmMunicipio": "CATIGUA"
+    },
+    {
+        "cdMunicipio": 262,
+        "nmMunicipio": "CEDRAL"
+    },
+    {
+        "cdMunicipio": 263,
+        "nmMunicipio": "CERQUEIRA CESAR"
+    },
+    {
+        "cdMunicipio": 265,
+        "nmMunicipio": "CERQUILHO"
+    },
+    {
+        "cdMunicipio": 264,
+        "nmMunicipio": "CESARIO LANGE"
+    },
+    {
+        "cdMunicipio": 266,
+        "nmMunicipio": "CHARQUEADA"
+    },
+    {
+        "cdMunicipio": 719,
+        "nmMunicipio": "CHAVANTES"
+    },
+    {
+        "cdMunicipio": 267,
+        "nmMunicipio": "CLEMENTINA"
+    },
+    {
+        "cdMunicipio": 268,
+        "nmMunicipio": "COLINA"
+    },
+    {
+        "cdMunicipio": 269,
+        "nmMunicipio": "COLOMBIA"
+    },
+    {
+        "cdMunicipio": 270,
+        "nmMunicipio": "CONCHAL"
+    },
+    {
+        "cdMunicipio": 271,
+        "nmMunicipio": "CONCHAS"
+    },
+    {
+        "cdMunicipio": 272,
+        "nmMunicipio": "CORDEIROPOLIS"
+    },
+    {
+        "cdMunicipio": 273,
+        "nmMunicipio": "COROADOS"
+    },
+    {
+        "cdMunicipio": 274,
+        "nmMunicipio": "CORONEL MACEDO"
+    },
+    {
+        "cdMunicipio": 275,
+        "nmMunicipio": "CORUMBATAI"
+    },
+    {
+        "cdMunicipio": 276,
+        "nmMunicipio": "COSMOPOLIS"
+    },
+    {
+        "cdMunicipio": 277,
+        "nmMunicipio": "COSMORAMA"
+    },
+    {
+        "cdMunicipio": 278,
+        "nmMunicipio": "COTIA"
+    },
+    {
+        "cdMunicipio": 279,
+        "nmMunicipio": "CRAVINHOS"
+    },
+    {
+        "cdMunicipio": 280,
+        "nmMunicipio": "CRISTAIS PAULISTA"
+    },
+    {
+        "cdMunicipio": 281,
+        "nmMunicipio": "CRUZALIA"
+    },
+    {
+        "cdMunicipio": 282,
+        "nmMunicipio": "CRUZEIRO"
+    },
+    {
+        "cdMunicipio": 283,
+        "nmMunicipio": "CUBATAO"
+    },
+    {
+        "cdMunicipio": 284,
+        "nmMunicipio": "CUNHA"
+    },
+    {
+        "cdMunicipio": 285,
+        "nmMunicipio": "DESCALVADO"
+    },
+    {
+        "cdMunicipio": 286,
+        "nmMunicipio": "DIADEMA"
+    },
+    {
+        "cdMunicipio": 722,
+        "nmMunicipio": "DIRCE REIS"
+    },
+    {
+        "cdMunicipio": 287,
+        "nmMunicipio": "DIVINOLANDIA"
+    },
+    {
+        "cdMunicipio": 288,
+        "nmMunicipio": "DOBRADA"
+    },
+    {
+        "cdMunicipio": 289,
+        "nmMunicipio": "DOIS CORREGOS"
+    },
+    {
+        "cdMunicipio": 290,
+        "nmMunicipio": "DOLCINOPOLIS"
+    },
+    {
+        "cdMunicipio": 291,
+        "nmMunicipio": "DOURADO"
+    },
+    {
+        "cdMunicipio": 292,
+        "nmMunicipio": "DRACENA"
+    },
+    {
+        "cdMunicipio": 293,
+        "nmMunicipio": "DUARTINA"
+    },
+    {
+        "cdMunicipio": 294,
+        "nmMunicipio": "DUMONT"
+    },
+    {
+        "cdMunicipio": 295,
+        "nmMunicipio": "ECHAPORA"
+    },
+    {
+        "cdMunicipio": 296,
+        "nmMunicipio": "ELDORADO"
+    },
+    {
+        "cdMunicipio": 297,
+        "nmMunicipio": "ELIAS FAUSTO"
+    },
+    {
+        "cdMunicipio": 743,
+        "nmMunicipio": "ELISIARIO"
+    },
+    {
+        "cdMunicipio": 723,
+        "nmMunicipio": "EMBAUBA"
+    },
+    {
+        "cdMunicipio": 298,
+        "nmMunicipio": "EMBU DAS ARTES"
+    },
+    {
+        "cdMunicipio": 299,
+        "nmMunicipio": "EMBU-GUACU"
+    },
+    {
+        "cdMunicipio": 744,
+        "nmMunicipio": "EMILIANOPOLIS"
+    },
+    {
+        "cdMunicipio": 745,
+        "nmMunicipio": "ENGENHEIRO COELHO"
+    },
+    {
+        "cdMunicipio": 530,
+        "nmMunicipio": "ESPIRITO SANTO DO PINHAL"
+    },
+    {
+        "cdMunicipio": 724,
+        "nmMunicipio": "ESPIRITO SANTO DO TURVO"
+    },
+    {
+        "cdMunicipio": 746,
+        "nmMunicipio": "ESTIVA GERBI"
+    },
+    {
+        "cdMunicipio": 301,
+        "nmMunicipio": "ESTRELA D\u0027OESTE"
+    },
+    {
+        "cdMunicipio": 300,
+        "nmMunicipio": "ESTRELA DO NORTE"
+    },
+    {
+        "cdMunicipio": 725,
+        "nmMunicipio": "EUCLIDES DA CUNHA PAULISTA"
+    },
+    {
+        "cdMunicipio": 302,
+        "nmMunicipio": "FARTURA"
+    },
+    {
+        "cdMunicipio": 303,
+        "nmMunicipio": "FERNANDO PRESTES"
+    },
+    {
+        "cdMunicipio": 304,
+        "nmMunicipio": "FERNANDOPOLIS"
+    },
+    {
+        "cdMunicipio": 786,
+        "nmMunicipio": "FERNAO"
+    },
+    {
+        "cdMunicipio": 305,
+        "nmMunicipio": "FERRAZ DE VASCONCELOS"
+    },
+    {
+        "cdMunicipio": 306,
+        "nmMunicipio": "FLORA RICA"
+    },
+    {
+        "cdMunicipio": 307,
+        "nmMunicipio": "FLOREAL"
+    },
+    {
+        "cdMunicipio": 308,
+        "nmMunicipio": "FLORIDA PAULISTA"
+    },
+    {
+        "cdMunicipio": 309,
+        "nmMunicipio": "FLOR\u00CDNEA"
+    },
+    {
+        "cdMunicipio": 310,
+        "nmMunicipio": "FRANCA"
+    },
+    {
+        "cdMunicipio": 311,
+        "nmMunicipio": "FRANCISCO MORATO"
+    },
+    {
+        "cdMunicipio": 312,
+        "nmMunicipio": "FRANCO DA ROCHA"
+    },
+    {
+        "cdMunicipio": 313,
+        "nmMunicipio": "GABRIEL MONTEIRO"
+    },
+    {
+        "cdMunicipio": 314,
+        "nmMunicipio": "GALIA"
+    },
+    {
+        "cdMunicipio": 315,
+        "nmMunicipio": "GARCA"
+    },
+    {
+        "cdMunicipio": 316,
+        "nmMunicipio": "GASTAO VIDIGAL"
+    },
+    {
+        "cdMunicipio": 787,
+        "nmMunicipio": "GAVIAO PEIXOTO"
+    },
+    {
+        "cdMunicipio": 317,
+        "nmMunicipio": "GENERAL SALGADO"
+    },
+    {
+        "cdMunicipio": 318,
+        "nmMunicipio": "GETULINA"
+    },
+    {
+        "cdMunicipio": 319,
+        "nmMunicipio": "GLICERIO"
+    },
+    {
+        "cdMunicipio": 320,
+        "nmMunicipio": "GUAICARA"
+    },
+    {
+        "cdMunicipio": 321,
+        "nmMunicipio": "GUAIMBE"
+    },
+    {
+        "cdMunicipio": 322,
+        "nmMunicipio": "GUAIRA"
+    },
+    {
+        "cdMunicipio": 323,
+        "nmMunicipio": "GUAPIACU"
+    },
+    {
+        "cdMunicipio": 324,
+        "nmMunicipio": "GUAPIARA"
+    },
+    {
+        "cdMunicipio": 325,
+        "nmMunicipio": "GUARA"
+    },
+    {
+        "cdMunicipio": 326,
+        "nmMunicipio": "GUARACAI"
+    },
+    {
+        "cdMunicipio": 327,
+        "nmMunicipio": "GUARACI"
+    },
+    {
+        "cdMunicipio": 328,
+        "nmMunicipio": "GUARANI D\u0027OESTE"
+    },
+    {
+        "cdMunicipio": 329,
+        "nmMunicipio": "GUARANTA"
+    },
+    {
+        "cdMunicipio": 330,
+        "nmMunicipio": "GUARARAPES"
+    },
+    {
+        "cdMunicipio": 331,
+        "nmMunicipio": "GUARAREMA"
+    },
+    {
+        "cdMunicipio": 332,
+        "nmMunicipio": "GUARATINGUETA"
+    },
+    {
+        "cdMunicipio": 333,
+        "nmMunicipio": "GUAREI"
+    },
+    {
+        "cdMunicipio": 334,
+        "nmMunicipio": "GUARIBA"
+    },
+    {
+        "cdMunicipio": 335,
+        "nmMunicipio": "GUARUJA"
+    },
+    {
+        "cdMunicipio": 336,
+        "nmMunicipio": "GUARULHOS"
+    },
+    {
+        "cdMunicipio": 726,
+        "nmMunicipio": "GUATAPARA"
+    },
+    {
+        "cdMunicipio": 337,
+        "nmMunicipio": "GUZOLANDIA"
+    },
+    {
+        "cdMunicipio": 338,
+        "nmMunicipio": "HERCULANDIA"
+    },
+    {
+        "cdMunicipio": 747,
+        "nmMunicipio": "HOLAMBRA"
+    },
+    {
+        "cdMunicipio": 748,
+        "nmMunicipio": "HORTOLANDIA"
+    },
+    {
+        "cdMunicipio": 339,
+        "nmMunicipio": "IACANGA"
+    },
+    {
+        "cdMunicipio": 340,
+        "nmMunicipio": "IACRI"
+    },
+    {
+        "cdMunicipio": 727,
+        "nmMunicipio": "IARAS"
+    },
+    {
+        "cdMunicipio": 341,
+        "nmMunicipio": "IBATE"
+    },
+    {
+        "cdMunicipio": 342,
+        "nmMunicipio": "IBIRA"
+    },
+    {
+        "cdMunicipio": 343,
+        "nmMunicipio": "IBIRAREMA"
+    },
+    {
+        "cdMunicipio": 344,
+        "nmMunicipio": "IBITINGA"
+    },
+    {
+        "cdMunicipio": 345,
+        "nmMunicipio": "IBIUNA"
+    },
+    {
+        "cdMunicipio": 346,
+        "nmMunicipio": "ICEM"
+    },
+    {
+        "cdMunicipio": 347,
+        "nmMunicipio": "IEPE"
+    },
+    {
+        "cdMunicipio": 348,
+        "nmMunicipio": "IGARACU DO TIETE"
+    },
+    {
+        "cdMunicipio": 349,
+        "nmMunicipio": "IGARAPAVA"
+    },
+    {
+        "cdMunicipio": 350,
+        "nmMunicipio": "IGARATA"
+    },
+    {
+        "cdMunicipio": 351,
+        "nmMunicipio": "IGUAPE"
+    },
+    {
+        "cdMunicipio": 749,
+        "nmMunicipio": "ILHA COMPRIDA"
+    },
+    {
+        "cdMunicipio": 750,
+        "nmMunicipio": "ILHA SOLTEIRA"
+    },
+    {
+        "cdMunicipio": 352,
+        "nmMunicipio": "ILHABELA"
+    },
+    {
+        "cdMunicipio": 353,
+        "nmMunicipio": "INDAIATUBA"
+    },
+    {
+        "cdMunicipio": 354,
+        "nmMunicipio": "INDIANA"
+    },
+    {
+        "cdMunicipio": 355,
+        "nmMunicipio": "INDIAPORA"
+    },
+    {
+        "cdMunicipio": 356,
+        "nmMunicipio": "INUBIA PAULISTA"
+    },
+    {
+        "cdMunicipio": 357,
+        "nmMunicipio": "IPAUSSU"
+    },
+    {
+        "cdMunicipio": 358,
+        "nmMunicipio": "IPERO"
+    },
+    {
+        "cdMunicipio": 359,
+        "nmMunicipio": "IPEUNA"
+    },
+    {
+        "cdMunicipio": 784,
+        "nmMunicipio": "IPIGUA"
+    },
+    {
+        "cdMunicipio": 360,
+        "nmMunicipio": "IPORANGA"
+    },
+    {
+        "cdMunicipio": 361,
+        "nmMunicipio": "IPUA"
+    },
+    {
+        "cdMunicipio": 362,
+        "nmMunicipio": "IRACEMAPOLIS"
+    },
+    {
+        "cdMunicipio": 363,
+        "nmMunicipio": "IRAPUA"
+    },
+    {
+        "cdMunicipio": 364,
+        "nmMunicipio": "IRAPURU"
+    },
+    {
+        "cdMunicipio": 365,
+        "nmMunicipio": "ITABERA"
+    },
+    {
+        "cdMunicipio": 366,
+        "nmMunicipio": "ITAI"
+    },
+    {
+        "cdMunicipio": 367,
+        "nmMunicipio": "ITAJOBI"
+    },
+    {
+        "cdMunicipio": 368,
+        "nmMunicipio": "ITAJU"
+    },
+    {
+        "cdMunicipio": 369,
+        "nmMunicipio": "ITANHAEM"
+    },
+    {
+        "cdMunicipio": 751,
+        "nmMunicipio": "ITAOCA"
+    },
+    {
+        "cdMunicipio": 370,
+        "nmMunicipio": "ITAPECERICA DA SERRA"
+    },
+    {
+        "cdMunicipio": 371,
+        "nmMunicipio": "ITAPETININGA"
+    },
+    {
+        "cdMunicipio": 372,
+        "nmMunicipio": "ITAPEVA"
+    },
+    {
+        "cdMunicipio": 373,
+        "nmMunicipio": "ITAPEVI"
+    },
+    {
+        "cdMunicipio": 374,
+        "nmMunicipio": "ITAPIRA"
+    },
+    {
+        "cdMunicipio": 752,
+        "nmMunicipio": "ITAPIRAPUA PAULISTA"
+    },
+    {
+        "cdMunicipio": 375,
+        "nmMunicipio": "ITAPOLIS"
+    },
+    {
+        "cdMunicipio": 376,
+        "nmMunicipio": "ITAPORANGA"
+    },
+    {
+        "cdMunicipio": 377,
+        "nmMunicipio": "ITAPUI"
+    },
+    {
+        "cdMunicipio": 378,
+        "nmMunicipio": "ITAPURA"
+    },
+    {
+        "cdMunicipio": 379,
+        "nmMunicipio": "ITAQUAQUECETUBA"
+    },
+    {
+        "cdMunicipio": 380,
+        "nmMunicipio": "ITARARE"
+    },
+    {
+        "cdMunicipio": 381,
+        "nmMunicipio": "ITARIRI"
+    },
+    {
+        "cdMunicipio": 382,
+        "nmMunicipio": "ITATIBA"
+    },
+    {
+        "cdMunicipio": 383,
+        "nmMunicipio": "ITATINGA"
+    },
+    {
+        "cdMunicipio": 384,
+        "nmMunicipio": "ITIRAPINA"
+    },
+    {
+        "cdMunicipio": 385,
+        "nmMunicipio": "ITIRAPUA"
+    },
+    {
+        "cdMunicipio": 386,
+        "nmMunicipio": "ITOBI"
+    },
+    {
+        "cdMunicipio": 387,
+        "nmMunicipio": "ITU"
+    },
+    {
+        "cdMunicipio": 388,
+        "nmMunicipio": "ITUPEVA"
+    },
+    {
+        "cdMunicipio": 389,
+        "nmMunicipio": "ITUVERAVA"
+    },
+    {
+        "cdMunicipio": 390,
+        "nmMunicipio": "JABORANDI"
+    },
+    {
+        "cdMunicipio": 391,
+        "nmMunicipio": "JABOTICABAL"
+    },
+    {
+        "cdMunicipio": 392,
+        "nmMunicipio": "JACAREI"
+    },
+    {
+        "cdMunicipio": 393,
+        "nmMunicipio": "JACI"
+    },
+    {
+        "cdMunicipio": 394,
+        "nmMunicipio": "JACUPIRANGA"
+    },
+    {
+        "cdMunicipio": 395,
+        "nmMunicipio": "JAGUARIUNA"
+    },
+    {
+        "cdMunicipio": 396,
+        "nmMunicipio": "JALES"
+    },
+    {
+        "cdMunicipio": 397,
+        "nmMunicipio": "JAMBEIRO"
+    },
+    {
+        "cdMunicipio": 398,
+        "nmMunicipio": "JANDIRA"
+    },
+    {
+        "cdMunicipio": 399,
+        "nmMunicipio": "JARDINOPOLIS"
+    },
+    {
+        "cdMunicipio": 400,
+        "nmMunicipio": "JARINU"
+    },
+    {
+        "cdMunicipio": 401,
+        "nmMunicipio": "JAU"
+    },
+    {
+        "cdMunicipio": 402,
+        "nmMunicipio": "JERIQUARA"
+    },
+    {
+        "cdMunicipio": 403,
+        "nmMunicipio": "JOANOPOLIS"
+    },
+    {
+        "cdMunicipio": 404,
+        "nmMunicipio": "JOAO RAMALHO"
+    },
+    {
+        "cdMunicipio": 405,
+        "nmMunicipio": "JOSE BONIFACIO"
+    },
+    {
+        "cdMunicipio": 406,
+        "nmMunicipio": "JULIO MESQUITA"
+    },
+    {
+        "cdMunicipio": 788,
+        "nmMunicipio": "JUMIRIM"
+    },
+    {
+        "cdMunicipio": 407,
+        "nmMunicipio": "JUNDIAI"
+    },
+    {
+        "cdMunicipio": 408,
+        "nmMunicipio": "JUNQUEIROPOLIS"
+    },
+    {
+        "cdMunicipio": 409,
+        "nmMunicipio": "JUQUIA"
+    },
+    {
+        "cdMunicipio": 410,
+        "nmMunicipio": "JUQUITIBA"
+    },
+    {
+        "cdMunicipio": 411,
+        "nmMunicipio": "LAGOINHA"
+    },
+    {
+        "cdMunicipio": 412,
+        "nmMunicipio": "LARANJAL PAULISTA"
+    },
+    {
+        "cdMunicipio": 413,
+        "nmMunicipio": "LAVINIA"
+    },
+    {
+        "cdMunicipio": 414,
+        "nmMunicipio": "LAVRINHAS"
+    },
+    {
+        "cdMunicipio": 415,
+        "nmMunicipio": "LEME"
+    },
+    {
+        "cdMunicipio": 416,
+        "nmMunicipio": "LENCOIS PAULISTA"
+    },
+    {
+        "cdMunicipio": 417,
+        "nmMunicipio": "LIMEIRA"
+    },
+    {
+        "cdMunicipio": 418,
+        "nmMunicipio": "LINDOIA"
+    },
+    {
+        "cdMunicipio": 419,
+        "nmMunicipio": "LINS"
+    },
+    {
+        "cdMunicipio": 420,
+        "nmMunicipio": "LORENA"
+    },
+    {
+        "cdMunicipio": 753,
+        "nmMunicipio": "LOURDES"
+    },
+    {
+        "cdMunicipio": 421,
+        "nmMunicipio": "LOUVEIRA"
+    },
+    {
+        "cdMunicipio": 422,
+        "nmMunicipio": "LUCELIA"
+    },
+    {
+        "cdMunicipio": 423,
+        "nmMunicipio": "LUCIANOPOLIS"
+    },
+    {
+        "cdMunicipio": 424,
+        "nmMunicipio": "LUIS ANTONIO"
+    },
+    {
+        "cdMunicipio": 425,
+        "nmMunicipio": "LUIZIANIA"
+    },
+    {
+        "cdMunicipio": 426,
+        "nmMunicipio": "LUPERCIO"
+    },
+    {
+        "cdMunicipio": 427,
+        "nmMunicipio": "LUTECIA"
+    },
+    {
+        "cdMunicipio": 428,
+        "nmMunicipio": "MACATUBA"
+    },
+    {
+        "cdMunicipio": 429,
+        "nmMunicipio": "MACAUBAL"
+    },
+    {
+        "cdMunicipio": 430,
+        "nmMunicipio": "MACEDONIA"
+    },
+    {
+        "cdMunicipio": 431,
+        "nmMunicipio": "MAGDA"
+    },
+    {
+        "cdMunicipio": 432,
+        "nmMunicipio": "MAIRINQUE"
+    },
+    {
+        "cdMunicipio": 433,
+        "nmMunicipio": "MAIRIPORA"
+    },
+    {
+        "cdMunicipio": 434,
+        "nmMunicipio": "MANDURI"
+    },
+    {
+        "cdMunicipio": 435,
+        "nmMunicipio": "MARABA PAULISTA"
+    },
+    {
+        "cdMunicipio": 436,
+        "nmMunicipio": "MARACAI"
+    },
+    {
+        "cdMunicipio": 754,
+        "nmMunicipio": "MARAPOAMA"
+    },
+    {
+        "cdMunicipio": 437,
+        "nmMunicipio": "MARIAPOLIS"
+    },
+    {
+        "cdMunicipio": 438,
+        "nmMunicipio": "MARILIA"
+    },
+    {
+        "cdMunicipio": 439,
+        "nmMunicipio": "MARINOPOLIS"
+    },
+    {
+        "cdMunicipio": 440,
+        "nmMunicipio": "MARTINOPOLIS"
+    },
+    {
+        "cdMunicipio": 441,
+        "nmMunicipio": "MATAO"
+    },
+    {
+        "cdMunicipio": 442,
+        "nmMunicipio": "MAUA"
+    },
+    {
+        "cdMunicipio": 443,
+        "nmMunicipio": "MENDONCA"
+    },
+    {
+        "cdMunicipio": 444,
+        "nmMunicipio": "MERIDIANO"
+    },
+    {
+        "cdMunicipio": 755,
+        "nmMunicipio": "MESOPOLIS"
+    },
+    {
+        "cdMunicipio": 445,
+        "nmMunicipio": "MIGUELOPOLIS"
+    },
+    {
+        "cdMunicipio": 446,
+        "nmMunicipio": "MINEIROS DO TIETE"
+    },
+    {
+        "cdMunicipio": 447,
+        "nmMunicipio": "MIRA ESTRELA"
+    },
+    {
+        "cdMunicipio": 448,
+        "nmMunicipio": "MIRACATU"
+    },
+    {
+        "cdMunicipio": 449,
+        "nmMunicipio": "MIRANDOPOLIS"
+    },
+    {
+        "cdMunicipio": 450,
+        "nmMunicipio": "MIRANTE DO PARANAPANEMA"
+    },
+    {
+        "cdMunicipio": 451,
+        "nmMunicipio": "MIRASSOL"
+    },
+    {
+        "cdMunicipio": 452,
+        "nmMunicipio": "MIRASSOLANDIA"
+    },
+    {
+        "cdMunicipio": 453,
+        "nmMunicipio": "MOCOCA"
+    },
+    {
+        "cdMunicipio": 454,
+        "nmMunicipio": "MOGI DAS CRUZES"
+    },
+    {
+        "cdMunicipio": 455,
+        "nmMunicipio": "MOGI GUACU"
+    },
+    {
+        "cdMunicipio": 456,
+        "nmMunicipio": "MOGI MIRIM"
+    },
+    {
+        "cdMunicipio": 457,
+        "nmMunicipio": "MOMBUCA"
+    },
+    {
+        "cdMunicipio": 458,
+        "nmMunicipio": "MONCOES"
+    },
+    {
+        "cdMunicipio": 459,
+        "nmMunicipio": "MONGAGUA"
+    },
+    {
+        "cdMunicipio": 460,
+        "nmMunicipio": "MONTE ALEGRE DO SUL"
+    },
+    {
+        "cdMunicipio": 461,
+        "nmMunicipio": "MONTE ALTO"
+    },
+    {
+        "cdMunicipio": 462,
+        "nmMunicipio": "MONTE APRAZIVEL"
+    },
+    {
+        "cdMunicipio": 463,
+        "nmMunicipio": "MONTE AZUL PAULISTA"
+    },
+    {
+        "cdMunicipio": 464,
+        "nmMunicipio": "MONTE CASTELO"
+    },
+    {
+        "cdMunicipio": 465,
+        "nmMunicipio": "MONTE MOR"
+    },
+    {
+        "cdMunicipio": 466,
+        "nmMunicipio": "MONTEIRO LOBATO"
+    },
+    {
+        "cdMunicipio": 467,
+        "nmMunicipio": "MORRO AGUDO"
+    },
+    {
+        "cdMunicipio": 468,
+        "nmMunicipio": "MORUNGABA"
+    },
+    {
+        "cdMunicipio": 729,
+        "nmMunicipio": "MOTUCA"
+    },
+    {
+        "cdMunicipio": 469,
+        "nmMunicipio": "MURUTINGA DO SUL"
+    },
+    {
+        "cdMunicipio": 789,
+        "nmMunicipio": "NANTES"
+    },
+    {
+        "cdMunicipio": 470,
+        "nmMunicipio": "NARANDIBA"
+    },
+    {
+        "cdMunicipio": 471,
+        "nmMunicipio": "NATIVIDADE DA SERRA"
+    },
+    {
+        "cdMunicipio": 472,
+        "nmMunicipio": "NAZARE PAULISTA"
+    },
+    {
+        "cdMunicipio": 473,
+        "nmMunicipio": "NEVES PAULISTA"
+    },
+    {
+        "cdMunicipio": 474,
+        "nmMunicipio": "NHANDEARA"
+    },
+    {
+        "cdMunicipio": 475,
+        "nmMunicipio": "NIPOA"
+    },
+    {
+        "cdMunicipio": 476,
+        "nmMunicipio": "NOVA ALIANCA"
+    },
+    {
+        "cdMunicipio": 756,
+        "nmMunicipio": "NOVA CAMPINA"
+    },
+    {
+        "cdMunicipio": 757,
+        "nmMunicipio": "NOVA CANAA PAULISTA"
+    },
+    {
+        "cdMunicipio": 790,
+        "nmMunicipio": "NOVA CASTILHO"
+    },
+    {
+        "cdMunicipio": 477,
+        "nmMunicipio": "NOVA EUROPA"
+    },
+    {
+        "cdMunicipio": 478,
+        "nmMunicipio": "NOVA GRANADA"
+    },
+    {
+        "cdMunicipio": 479,
+        "nmMunicipio": "NOVA GUATAPORANGA"
+    },
+    {
+        "cdMunicipio": 480,
+        "nmMunicipio": "NOVA INDEPENDENCIA"
+    },
+    {
+        "cdMunicipio": 481,
+        "nmMunicipio": "NOVA LUZITANIA"
+    },
+    {
+        "cdMunicipio": 482,
+        "nmMunicipio": "NOVA ODESSA"
+    },
+    {
+        "cdMunicipio": 758,
+        "nmMunicipio": "NOVAIS"
+    },
+    {
+        "cdMunicipio": 483,
+        "nmMunicipio": "NOVO HORIZONTE"
+    },
+    {
+        "cdMunicipio": 484,
+        "nmMunicipio": "NUPORANGA"
+    },
+    {
+        "cdMunicipio": 485,
+        "nmMunicipio": "OCAUCU"
+    },
+    {
+        "cdMunicipio": 486,
+        "nmMunicipio": "OLEO"
+    },
+    {
+        "cdMunicipio": 487,
+        "nmMunicipio": "OLIMPIA"
+    },
+    {
+        "cdMunicipio": 488,
+        "nmMunicipio": "ONDA VERDE"
+    },
+    {
+        "cdMunicipio": 489,
+        "nmMunicipio": "ORIENTE"
+    },
+    {
+        "cdMunicipio": 490,
+        "nmMunicipio": "ORINDIUVA"
+    },
+    {
+        "cdMunicipio": 491,
+        "nmMunicipio": "ORLANDIA"
+    },
+    {
+        "cdMunicipio": 492,
+        "nmMunicipio": "OSASCO"
+    },
+    {
+        "cdMunicipio": 493,
+        "nmMunicipio": "OSCAR BRESSANE"
+    },
+    {
+        "cdMunicipio": 494,
+        "nmMunicipio": "OSVALDO CRUZ"
+    },
+    {
+        "cdMunicipio": 495,
+        "nmMunicipio": "OURINHOS"
+    },
+    {
+        "cdMunicipio": 496,
+        "nmMunicipio": "OURO VERDE"
+    },
+    {
+        "cdMunicipio": 791,
+        "nmMunicipio": "OUROESTE"
+    },
+    {
+        "cdMunicipio": 497,
+        "nmMunicipio": "PACAEMBU"
+    },
+    {
+        "cdMunicipio": 498,
+        "nmMunicipio": "PALESTINA"
+    },
+    {
+        "cdMunicipio": 499,
+        "nmMunicipio": "PALMARES PAULISTA"
+    },
+    {
+        "cdMunicipio": 500,
+        "nmMunicipio": "PALMEIRA D\u0027OESTE"
+    },
+    {
+        "cdMunicipio": 501,
+        "nmMunicipio": "PALMITAL"
+    },
+    {
+        "cdMunicipio": 502,
+        "nmMunicipio": "PANORAMA"
+    },
+    {
+        "cdMunicipio": 503,
+        "nmMunicipio": "PARAGUACU PAULISTA"
+    },
+    {
+        "cdMunicipio": 504,
+        "nmMunicipio": "PARAIBUNA"
+    },
+    {
+        "cdMunicipio": 505,
+        "nmMunicipio": "PARAISO"
+    },
+    {
+        "cdMunicipio": 506,
+        "nmMunicipio": "PARANAPANEMA"
+    },
+    {
+        "cdMunicipio": 508,
+        "nmMunicipio": "PARANAPUA"
+    },
+    {
+        "cdMunicipio": 509,
+        "nmMunicipio": "PARAPUA"
+    },
+    {
+        "cdMunicipio": 507,
+        "nmMunicipio": "PARDINHO"
+    },
+    {
+        "cdMunicipio": 510,
+        "nmMunicipio": "PARIQUERA-ACU"
+    },
+    {
+        "cdMunicipio": 759,
+        "nmMunicipio": "PARISI"
+    },
+    {
+        "cdMunicipio": 511,
+        "nmMunicipio": "PATROCINIO PAULISTA"
+    },
+    {
+        "cdMunicipio": 512,
+        "nmMunicipio": "PAULICEIA"
+    },
+    {
+        "cdMunicipio": 513,
+        "nmMunicipio": "PAULINIA"
+    },
+    {
+        "cdMunicipio": 792,
+        "nmMunicipio": "PAULISTANIA"
+    },
+    {
+        "cdMunicipio": 514,
+        "nmMunicipio": "PAULO DE FARIA"
+    },
+    {
+        "cdMunicipio": 515,
+        "nmMunicipio": "PEDERNEIRAS"
+    },
+    {
+        "cdMunicipio": 516,
+        "nmMunicipio": "PEDRA BELA"
+    },
+    {
+        "cdMunicipio": 517,
+        "nmMunicipio": "PEDRANOPOLIS"
+    },
+    {
+        "cdMunicipio": 518,
+        "nmMunicipio": "PEDREGULHO"
+    },
+    {
+        "cdMunicipio": 519,
+        "nmMunicipio": "PEDREIRA"
+    },
+    {
+        "cdMunicipio": 760,
+        "nmMunicipio": "PEDRINHAS PAULISTA"
+    },
+    {
+        "cdMunicipio": 520,
+        "nmMunicipio": "PEDRO DE TOLEDO"
+    },
+    {
+        "cdMunicipio": 521,
+        "nmMunicipio": "PENAPOLIS"
+    },
+    {
+        "cdMunicipio": 522,
+        "nmMunicipio": "PEREIRA BARRETO"
+    },
+    {
+        "cdMunicipio": 523,
+        "nmMunicipio": "PEREIRAS"
+    },
+    {
+        "cdMunicipio": 524,
+        "nmMunicipio": "PERUIBE"
+    },
+    {
+        "cdMunicipio": 525,
+        "nmMunicipio": "PIACATU"
+    },
+    {
+        "cdMunicipio": 526,
+        "nmMunicipio": "PIEDADE"
+    },
+    {
+        "cdMunicipio": 527,
+        "nmMunicipio": "PILAR DO SUL"
+    },
+    {
+        "cdMunicipio": 528,
+        "nmMunicipio": "PINDAMONHANGABA"
+    },
+    {
+        "cdMunicipio": 529,
+        "nmMunicipio": "PINDORAMA"
+    },
+    {
+        "cdMunicipio": 531,
+        "nmMunicipio": "PINHALZINHO"
+    },
+    {
+        "cdMunicipio": 532,
+        "nmMunicipio": "PIQUEROBI"
+    },
+    {
+        "cdMunicipio": 533,
+        "nmMunicipio": "PIQUETE"
+    },
+    {
+        "cdMunicipio": 534,
+        "nmMunicipio": "PIRACAIA"
+    },
+    {
+        "cdMunicipio": 535,
+        "nmMunicipio": "PIRACICABA"
+    },
+    {
+        "cdMunicipio": 537,
+        "nmMunicipio": "PIRAJU"
+    },
+    {
+        "cdMunicipio": 538,
+        "nmMunicipio": "PIRAJUI"
+    },
+    {
+        "cdMunicipio": 539,
+        "nmMunicipio": "PIRANGI"
+    },
+    {
+        "cdMunicipio": 540,
+        "nmMunicipio": "PIRAPORA DO BOM JESUS"
+    },
+    {
+        "cdMunicipio": 541,
+        "nmMunicipio": "PIRAPOZINHO"
+    },
+    {
+        "cdMunicipio": 536,
+        "nmMunicipio": "PIRASSUNUNGA"
+    },
+    {
+        "cdMunicipio": 542,
+        "nmMunicipio": "PIRATININGA"
+    },
+    {
+        "cdMunicipio": 543,
+        "nmMunicipio": "PITANGUEIRAS"
+    },
+    {
+        "cdMunicipio": 544,
+        "nmMunicipio": "PLANALTO"
+    },
+    {
+        "cdMunicipio": 545,
+        "nmMunicipio": "PLATINA"
+    },
+    {
+        "cdMunicipio": 546,
+        "nmMunicipio": "POA"
+    },
+    {
+        "cdMunicipio": 547,
+        "nmMunicipio": "POLONI"
+    },
+    {
+        "cdMunicipio": 548,
+        "nmMunicipio": "POMPEIA"
+    },
+    {
+        "cdMunicipio": 549,
+        "nmMunicipio": "PONGAI"
+    },
+    {
+        "cdMunicipio": 550,
+        "nmMunicipio": "PONTAL"
+    },
+    {
+        "cdMunicipio": 761,
+        "nmMunicipio": "PONTALINDA"
+    },
+    {
+        "cdMunicipio": 551,
+        "nmMunicipio": "PONTES GESTAL"
+    },
+    {
+        "cdMunicipio": 552,
+        "nmMunicipio": "POPULINA"
+    },
+    {
+        "cdMunicipio": 553,
+        "nmMunicipio": "PORANGABA"
+    },
+    {
+        "cdMunicipio": 554,
+        "nmMunicipio": "PORTO FELIZ"
+    },
+    {
+        "cdMunicipio": 555,
+        "nmMunicipio": "PORTO FERREIRA"
+    },
+    {
+        "cdMunicipio": 762,
+        "nmMunicipio": "POTIM"
+    },
+    {
+        "cdMunicipio": 556,
+        "nmMunicipio": "POTIRENDABA"
+    },
+    {
+        "cdMunicipio": 778,
+        "nmMunicipio": "PRACINHA"
+    },
+    {
+        "cdMunicipio": 557,
+        "nmMunicipio": "PRADOPOLIS"
+    },
+    {
+        "cdMunicipio": 558,
+        "nmMunicipio": "PRAIA GRANDE"
+    },
+    {
+        "cdMunicipio": 779,
+        "nmMunicipio": "PRATANIA"
+    },
+    {
+        "cdMunicipio": 559,
+        "nmMunicipio": "PRESIDENTE ALVES"
+    },
+    {
+        "cdMunicipio": 560,
+        "nmMunicipio": "PRESIDENTE BERNARDES"
+    },
+    {
+        "cdMunicipio": 561,
+        "nmMunicipio": "PRESIDENTE EPITACIO"
+    },
+    {
+        "cdMunicipio": 562,
+        "nmMunicipio": "PRESIDENTE PRUDENTE"
+    },
+    {
+        "cdMunicipio": 563,
+        "nmMunicipio": "PRESIDENTE VENCESLAU"
+    },
+    {
+        "cdMunicipio": 564,
+        "nmMunicipio": "PROMISSAO"
+    },
+    {
+        "cdMunicipio": 780,
+        "nmMunicipio": "QUADRA"
+    },
+    {
+        "cdMunicipio": 565,
+        "nmMunicipio": "QUATA"
+    },
+    {
+        "cdMunicipio": 566,
+        "nmMunicipio": "QUEIROZ"
+    },
+    {
+        "cdMunicipio": 567,
+        "nmMunicipio": "QUELUZ"
+    },
+    {
+        "cdMunicipio": 568,
+        "nmMunicipio": "QUINTANA"
+    },
+    {
+        "cdMunicipio": 569,
+        "nmMunicipio": "RAFARD"
+    },
+    {
+        "cdMunicipio": 570,
+        "nmMunicipio": "RANCHARIA"
+    },
+    {
+        "cdMunicipio": 571,
+        "nmMunicipio": "REDENCAO DA SERRA"
+    },
+    {
+        "cdMunicipio": 572,
+        "nmMunicipio": "REGENTE FEIJO"
+    },
+    {
+        "cdMunicipio": 573,
+        "nmMunicipio": "REGINOPOLIS"
+    },
+    {
+        "cdMunicipio": 574,
+        "nmMunicipio": "REGISTRO"
+    },
+    {
+        "cdMunicipio": 575,
+        "nmMunicipio": "RESTINGA"
+    },
+    {
+        "cdMunicipio": 576,
+        "nmMunicipio": "RIBEIRA"
+    },
+    {
+        "cdMunicipio": 577,
+        "nmMunicipio": "RIBEIRAO BONITO"
+    },
+    {
+        "cdMunicipio": 578,
+        "nmMunicipio": "RIBEIRAO BRANCO"
+    },
+    {
+        "cdMunicipio": 579,
+        "nmMunicipio": "RIBEIRAO CORRENTE"
+    },
+    {
+        "cdMunicipio": 580,
+        "nmMunicipio": "RIBEIRAO DO SUL"
+    },
+    {
+        "cdMunicipio": 793,
+        "nmMunicipio": "RIBEIRAO DOS INDIOS"
+    },
+    {
+        "cdMunicipio": 763,
+        "nmMunicipio": "RIBEIRAO GRANDE"
+    },
+    {
+        "cdMunicipio": 581,
+        "nmMunicipio": "RIBEIRAO PIRES"
+    },
+    {
+        "cdMunicipio": 582,
+        "nmMunicipio": "RIBEIRAO PRETO"
+    },
+    {
+        "cdMunicipio": 584,
+        "nmMunicipio": "RIFAINA"
+    },
+    {
+        "cdMunicipio": 585,
+        "nmMunicipio": "RINCAO"
+    },
+    {
+        "cdMunicipio": 586,
+        "nmMunicipio": "RINOPOLIS"
+    },
+    {
+        "cdMunicipio": 587,
+        "nmMunicipio": "RIO CLARO"
+    },
+    {
+        "cdMunicipio": 588,
+        "nmMunicipio": "RIO DAS PEDRAS"
+    },
+    {
+        "cdMunicipio": 589,
+        "nmMunicipio": "RIO GRANDE DA SERRA"
+    },
+    {
+        "cdMunicipio": 590,
+        "nmMunicipio": "RIOLANDIA"
+    },
+    {
+        "cdMunicipio": 583,
+        "nmMunicipio": "RIVERSUL"
+    },
+    {
+        "cdMunicipio": 730,
+        "nmMunicipio": "ROSANA"
+    },
+    {
+        "cdMunicipio": 591,
+        "nmMunicipio": "ROSEIRA"
+    },
+    {
+        "cdMunicipio": 592,
+        "nmMunicipio": "RUBIACEA"
+    },
+    {
+        "cdMunicipio": 593,
+        "nmMunicipio": "RUBINEIA"
+    },
+    {
+        "cdMunicipio": 594,
+        "nmMunicipio": "SABINO"
+    },
+    {
+        "cdMunicipio": 595,
+        "nmMunicipio": "SAGRES"
+    },
+    {
+        "cdMunicipio": 596,
+        "nmMunicipio": "SALES"
+    },
+    {
+        "cdMunicipio": 597,
+        "nmMunicipio": "SALES OLIVEIRA"
+    },
+    {
+        "cdMunicipio": 598,
+        "nmMunicipio": "SALESOPOLIS"
+    },
+    {
+        "cdMunicipio": 599,
+        "nmMunicipio": "SALMOURAO"
+    },
+    {
+        "cdMunicipio": 764,
+        "nmMunicipio": "SALTINHO"
+    },
+    {
+        "cdMunicipio": 600,
+        "nmMunicipio": "SALTO"
+    },
+    {
+        "cdMunicipio": 602,
+        "nmMunicipio": "SALTO DE PIRAPORA"
+    },
+    {
+        "cdMunicipio": 601,
+        "nmMunicipio": "SALTO GRANDE"
+    },
+    {
+        "cdMunicipio": 603,
+        "nmMunicipio": "SANDOVALINA"
+    },
+    {
+        "cdMunicipio": 604,
+        "nmMunicipio": "SANTA ADELIA"
+    },
+    {
+        "cdMunicipio": 605,
+        "nmMunicipio": "SANTA ALBERTINA"
+    },
+    {
+        "cdMunicipio": 606,
+        "nmMunicipio": "SANTA BARBARA D\u0027OESTE"
+    },
+    {
+        "cdMunicipio": 608,
+        "nmMunicipio": "SANTA BRANCA"
+    },
+    {
+        "cdMunicipio": 609,
+        "nmMunicipio": "SANTA CLARA D\u0027OESTE"
+    },
+    {
+        "cdMunicipio": 610,
+        "nmMunicipio": "SANTA CRUZ DA CONCEICAO"
+    },
+    {
+        "cdMunicipio": 781,
+        "nmMunicipio": "SANTA CRUZ DA ESPERANCA"
+    },
+    {
+        "cdMunicipio": 611,
+        "nmMunicipio": "SANTA CRUZ DAS PALMEIRAS"
+    },
+    {
+        "cdMunicipio": 612,
+        "nmMunicipio": "SANTA CRUZ DO RIO PARDO"
+    },
+    {
+        "cdMunicipio": 613,
+        "nmMunicipio": "SANTA ERNESTINA"
+    },
+    {
+        "cdMunicipio": 614,
+        "nmMunicipio": "SANTA FE DO SUL"
+    },
+    {
+        "cdMunicipio": 615,
+        "nmMunicipio": "SANTA GERTRUDES"
+    },
+    {
+        "cdMunicipio": 616,
+        "nmMunicipio": "SANTA ISABEL"
+    },
+    {
+        "cdMunicipio": 617,
+        "nmMunicipio": "SANTA LUCIA"
+    },
+    {
+        "cdMunicipio": 618,
+        "nmMunicipio": "SANTA MARIA DA SERRA"
+    },
+    {
+        "cdMunicipio": 619,
+        "nmMunicipio": "SANTA MERCEDES"
+    },
+    {
+        "cdMunicipio": 620,
+        "nmMunicipio": "SANTA RITA D\u0027OESTE"
+    },
+    {
+        "cdMunicipio": 621,
+        "nmMunicipio": "SANTA RITA DO PASSA QUATRO"
+    },
+    {
+        "cdMunicipio": 622,
+        "nmMunicipio": "SANTA ROSA DE VITERBO"
+    },
+    {
+        "cdMunicipio": 782,
+        "nmMunicipio": "SANTA SALETE"
+    },
+    {
+        "cdMunicipio": 624,
+        "nmMunicipio": "SANTANA DA PONTE PENSA"
+    },
+    {
+        "cdMunicipio": 625,
+        "nmMunicipio": "SANTO ANASTACIO"
+    },
+    {
+        "cdMunicipio": 626,
+        "nmMunicipio": "SANTO ANDRE"
+    },
+    {
+        "cdMunicipio": 627,
+        "nmMunicipio": "SANTO ANTONIO DA ALEGRIA"
+    },
+    {
+        "cdMunicipio": 630,
+        "nmMunicipio": "SANTO ANTONIO DE POSSE"
+    },
+    {
+        "cdMunicipio": 765,
+        "nmMunicipio": "SANTO ANTONIO DO ARACANGUA"
+    },
+    {
+        "cdMunicipio": 628,
+        "nmMunicipio": "SANTO ANTONIO DO JARDIM"
+    },
+    {
+        "cdMunicipio": 629,
+        "nmMunicipio": "SANTO ANTONIO DO PINHAL"
+    },
+    {
+        "cdMunicipio": 631,
+        "nmMunicipio": "SANTO EXPEDITO"
+    },
+    {
+        "cdMunicipio": 632,
+        "nmMunicipio": "SANTOPOLIS DO AGUAPEI"
+    },
+    {
+        "cdMunicipio": 633,
+        "nmMunicipio": "SANTOS"
+    },
+    {
+        "cdMunicipio": 634,
+        "nmMunicipio": "SAO BENTO DO SAPUCAI"
+    },
+    {
+        "cdMunicipio": 635,
+        "nmMunicipio": "SAO BERNARDO DO CAMPO"
+    },
+    {
+        "cdMunicipio": 636,
+        "nmMunicipio": "SAO CAETANO DO SUL"
+    },
+    {
+        "cdMunicipio": 637,
+        "nmMunicipio": "SAO CARLOS"
+    },
+    {
+        "cdMunicipio": 638,
+        "nmMunicipio": "SAO FRANCISCO"
+    },
+    {
+        "cdMunicipio": 639,
+        "nmMunicipio": "SAO JOAO DA BOA VISTA"
+    },
+    {
+        "cdMunicipio": 640,
+        "nmMunicipio": "SAO JOAO DAS DUAS PONTES"
+    },
+    {
+        "cdMunicipio": 766,
+        "nmMunicipio": "SAO JOAO DE IRACEMA"
+    },
+    {
+        "cdMunicipio": 641,
+        "nmMunicipio": "SAO JOAO DO PAU D\u0027ALHO"
+    },
+    {
+        "cdMunicipio": 642,
+        "nmMunicipio": "SAO JOAQUIM DA BARRA"
+    },
+    {
+        "cdMunicipio": 644,
+        "nmMunicipio": "SAO JOSE DA BELA VISTA"
+    },
+    {
+        "cdMunicipio": 643,
+        "nmMunicipio": "SAO JOSE DO BARREIRO"
+    },
+    {
+        "cdMunicipio": 646,
+        "nmMunicipio": "SAO JOSE DO RIO PARDO"
+    },
+    {
+        "cdMunicipio": 647,
+        "nmMunicipio": "SAO JOSE DO RIO PRETO"
+    },
+    {
+        "cdMunicipio": 645,
+        "nmMunicipio": "SAO JOSE DOS CAMPOS"
+    },
+    {
+        "cdMunicipio": 767,
+        "nmMunicipio": "SAO LOURENCO DA SERRA"
+    },
+    {
+        "cdMunicipio": 648,
+        "nmMunicipio": "SAO LUIZ DO PARAITINGA"
+    },
+    {
+        "cdMunicipio": 649,
+        "nmMunicipio": "SAO MANUEL"
+    },
+    {
+        "cdMunicipio": 650,
+        "nmMunicipio": "SAO MIGUEL ARCANJO"
+    },
+    {
+        "cdMunicipio": 100,
+        "nmMunicipio": "SAO PAULO"
+    },
+    {
+        "cdMunicipio": 651,
+        "nmMunicipio": "SAO PEDRO"
+    },
+    {
+        "cdMunicipio": 652,
+        "nmMunicipio": "SAO PEDRO DO TURVO"
+    },
+    {
+        "cdMunicipio": 653,
+        "nmMunicipio": "SAO ROQUE"
+    },
+    {
+        "cdMunicipio": 654,
+        "nmMunicipio": "SAO SEBASTIAO"
+    },
+    {
+        "cdMunicipio": 655,
+        "nmMunicipio": "SAO SEBASTIAO DA GRAMA"
+    },
+    {
+        "cdMunicipio": 656,
+        "nmMunicipio": "SAO SIMAO"
+    },
+    {
+        "cdMunicipio": 657,
+        "nmMunicipio": "SAO VICENTE"
+    },
+    {
+        "cdMunicipio": 658,
+        "nmMunicipio": "SARAPUI"
+    },
+    {
+        "cdMunicipio": 659,
+        "nmMunicipio": "SARUTAIA"
+    },
+    {
+        "cdMunicipio": 660,
+        "nmMunicipio": "SEBASTIANOPOLIS DO SUL"
+    },
+    {
+        "cdMunicipio": 661,
+        "nmMunicipio": "SERRA AZUL"
+    },
+    {
+        "cdMunicipio": 662,
+        "nmMunicipio": "SERRA NEGRA"
+    },
+    {
+        "cdMunicipio": 663,
+        "nmMunicipio": "SERRANA"
+    },
+    {
+        "cdMunicipio": 664,
+        "nmMunicipio": "SERTAOZINHO"
+    },
+    {
+        "cdMunicipio": 665,
+        "nmMunicipio": "SETE BARRAS"
+    },
+    {
+        "cdMunicipio": 666,
+        "nmMunicipio": "SEVERINIA"
+    },
+    {
+        "cdMunicipio": 667,
+        "nmMunicipio": "SILVEIRAS"
+    },
+    {
+        "cdMunicipio": 668,
+        "nmMunicipio": "SOCORRO"
+    },
+    {
+        "cdMunicipio": 669,
+        "nmMunicipio": "SOROCABA"
+    },
+    {
+        "cdMunicipio": 670,
+        "nmMunicipio": "SUD MENNUCCI"
+    },
+    {
+        "cdMunicipio": 671,
+        "nmMunicipio": "SUMARE"
+    },
+    {
+        "cdMunicipio": 768,
+        "nmMunicipio": "SUZANAPOLIS"
+    },
+    {
+        "cdMunicipio": 672,
+        "nmMunicipio": "SUZANO"
+    },
+    {
+        "cdMunicipio": 673,
+        "nmMunicipio": "TABAPUA"
+    },
+    {
+        "cdMunicipio": 674,
+        "nmMunicipio": "TABATINGA"
+    },
+    {
+        "cdMunicipio": 675,
+        "nmMunicipio": "TABOAO DA SERRA"
+    },
+    {
+        "cdMunicipio": 676,
+        "nmMunicipio": "TACIBA"
+    },
+    {
+        "cdMunicipio": 677,
+        "nmMunicipio": "TAGUAI"
+    },
+    {
+        "cdMunicipio": 678,
+        "nmMunicipio": "TAIACU"
+    },
+    {
+        "cdMunicipio": 679,
+        "nmMunicipio": "TAIUVA"
+    },
+    {
+        "cdMunicipio": 680,
+        "nmMunicipio": "TAMBAU"
+    },
+    {
+        "cdMunicipio": 681,
+        "nmMunicipio": "TANABI"
+    },
+    {
+        "cdMunicipio": 682,
+        "nmMunicipio": "TAPIRAI"
+    },
+    {
+        "cdMunicipio": 683,
+        "nmMunicipio": "TAPIRATIBA"
+    },
+    {
+        "cdMunicipio": 785,
+        "nmMunicipio": "TAQUARAL"
+    },
+    {
+        "cdMunicipio": 684,
+        "nmMunicipio": "TAQUARITINGA"
+    },
+    {
+        "cdMunicipio": 685,
+        "nmMunicipio": "TAQUARITUBA"
+    },
+    {
+        "cdMunicipio": 769,
+        "nmMunicipio": "TAQUARIVAI"
+    },
+    {
+        "cdMunicipio": 686,
+        "nmMunicipio": "TARABAI"
+    },
+    {
+        "cdMunicipio": 731,
+        "nmMunicipio": "TARUMA"
+    },
+    {
+        "cdMunicipio": 687,
+        "nmMunicipio": "TATUI"
+    },
+    {
+        "cdMunicipio": 688,
+        "nmMunicipio": "TAUBATE"
+    },
+    {
+        "cdMunicipio": 689,
+        "nmMunicipio": "TEJUPA"
+    },
+    {
+        "cdMunicipio": 690,
+        "nmMunicipio": "TEODORO SAMPAIO"
+    },
+    {
+        "cdMunicipio": 691,
+        "nmMunicipio": "TERRA ROXA"
+    },
+    {
+        "cdMunicipio": 692,
+        "nmMunicipio": "TIETE"
+    },
+    {
+        "cdMunicipio": 693,
+        "nmMunicipio": "TIMBURI"
+    },
+    {
+        "cdMunicipio": 770,
+        "nmMunicipio": "TORRE DE PEDRA"
+    },
+    {
+        "cdMunicipio": 694,
+        "nmMunicipio": "TORRINHA"
+    },
+    {
+        "cdMunicipio": 794,
+        "nmMunicipio": "TRABIJU"
+    },
+    {
+        "cdMunicipio": 695,
+        "nmMunicipio": "TREMEMBE"
+    },
+    {
+        "cdMunicipio": 696,
+        "nmMunicipio": "TRES FRONTEIRAS"
+    },
+    {
+        "cdMunicipio": 771,
+        "nmMunicipio": "TUIUTI"
+    },
+    {
+        "cdMunicipio": 697,
+        "nmMunicipio": "TUPA"
+    },
+    {
+        "cdMunicipio": 698,
+        "nmMunicipio": "TUPI PAULISTA"
+    },
+    {
+        "cdMunicipio": 699,
+        "nmMunicipio": "TURIUBA"
+    },
+    {
+        "cdMunicipio": 700,
+        "nmMunicipio": "TURMALINA"
+    },
+    {
+        "cdMunicipio": 772,
+        "nmMunicipio": "UBARANA"
+    },
+    {
+        "cdMunicipio": 701,
+        "nmMunicipio": "UBATUBA"
+    },
+    {
+        "cdMunicipio": 702,
+        "nmMunicipio": "UBIRAJARA"
+    },
+    {
+        "cdMunicipio": 703,
+        "nmMunicipio": "UCHOA"
+    },
+    {
+        "cdMunicipio": 704,
+        "nmMunicipio": "UNIAO PAULISTA"
+    },
+    {
+        "cdMunicipio": 705,
+        "nmMunicipio": "URANIA"
+    },
+    {
+        "cdMunicipio": 706,
+        "nmMunicipio": "URU"
+    },
+    {
+        "cdMunicipio": 707,
+        "nmMunicipio": "URUPES"
+    },
+    {
+        "cdMunicipio": 709,
+        "nmMunicipio": "VALENTIM GENTIL"
+    },
+    {
+        "cdMunicipio": 708,
+        "nmMunicipio": "VALINHOS"
+    },
+    {
+        "cdMunicipio": 710,
+        "nmMunicipio": "VALPARAISO"
+    },
+    {
+        "cdMunicipio": 773,
+        "nmMunicipio": "VARGEM"
+    },
+    {
+        "cdMunicipio": 711,
+        "nmMunicipio": "VARGEM GRANDE DO SUL"
+    },
+    {
+        "cdMunicipio": 720,
+        "nmMunicipio": "VARGEM GRANDE PAULISTA"
+    },
+    {
+        "cdMunicipio": 712,
+        "nmMunicipio": "VARZEA PAULISTA"
+    },
+    {
+        "cdMunicipio": 713,
+        "nmMunicipio": "VERA CRUZ"
+    },
+    {
+        "cdMunicipio": 714,
+        "nmMunicipio": "VINHEDO"
+    },
+    {
+        "cdMunicipio": 715,
+        "nmMunicipio": "VIRADOURO"
+    },
+    {
+        "cdMunicipio": 716,
+        "nmMunicipio": "VISTA ALEGRE DO ALTO"
+    },
+    {
+        "cdMunicipio": 783,
+        "nmMunicipio": "VITORIA BRASIL"
+    },
+    {
+        "cdMunicipio": 717,
+        "nmMunicipio": "VOTORANTIM"
+    },
+    {
+        "cdMunicipio": 718,
+        "nmMunicipio": "VOTUPORANGA"
+    },
+    {
+        "cdMunicipio": 774,
+        "nmMunicipio": "ZACARIAS"
+    }
+]

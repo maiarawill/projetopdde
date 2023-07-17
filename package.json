@@ -1,0 +1,36 @@
+{
+  "name": "transparencia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./src/scripts/server.ts",
+    "diretoria": "ts-node ./src/scripts/diretorias.ts",
+    "work": "ts-node ./src/scripts/work.ts",
+    "testar": "ts-node ./src/scripts/leituraJSON.ts",
+    "funciona": "ts-node ./src/scripts/outrosDados.ts",
+    "pagamentos": "ts-node ./src/scripts/processamentoDeVerbas.ts",
+    "atualizarOdoo": "ts-node ./src/scripts/atualizacaoDadosOdoo.ts",
+    "serve": "ts-node ./src/web/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.15.11",
+    "@types/sequelize": "^4.28.14",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "mysql2": "^3.2.0",
+    "puppeteer": "^19.8.5",
+    "sequelize": "^6.30.0",
+    "sequelize-typescript": "^2.1.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.3",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.17"
+  }
+}
